@@ -1,0 +1,343 @@
+
+
+.Appcontainer{
+  display: block;
+  width: 100%;
+  height: 100%;
+ 
+  
+}
+.navbarcolor{
+  background-color: rgb(33, 50, 46);
+  max-width: 136;
+}
+.icon-pg{
+  margin: -26px;
+    padding: -5px 0px 0px 0px;
+    height: 73px;
+    width: 153px;
+    float: left;
+   
+}
+.icon-pg:hover{
+  border-bottom-right-radius: 80px;
+}
+.background-header{
+  width: 100%;
+  height: 332px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-section{
+  width: 100%;
+  border: 1px solid goldenrod;
+  background-color: blanchedalmond;
+}
+.about-button{
+  width: 83px;
+  height: 32px;
+  background-color: rgb(11, 199, 199);
+  border-radius: 12px;
+  font-size: 15px;
+}
+.about-button:hover{
+  background-color: rgb(0, 245, 245);
+  border-radius: 16px;
+}
+
+.service-h{
+
+ padding-left:  50%;
+ background-color: rgb(146, 146, 196);
+ border-radius: 50px;
+
+  
+}
+.showservice{
+  width: 110px;
+  height: 32px;
+  background-color: rgb(11, 199, 199);
+  border-radius: 12px;
+  font-size: 15px;
+}
+.item-service{
+  width: 54%;
+    height: 326px;
+    border: 2px solid rgb(152, 212, 152);
+    font-size: 25px;
+    border-radius: 11px;
+    background-color: rgb(251, 117, 117);
+  
+}
+.imageservice{
+  width: 669px;
+  height: 150px;
+  float: right;
+}
+form{
+  height: 45px;
+  width: 294px;
+  margin: 45px 52px 55px 33px;
+  padding: 13px 19px 9px 66px;
+}
+
+.bookingform{
+  float: right;
+  border: 2px solid rgb(222, 171, 171);
+  width: 625px;
+  height: 323px;
+  background-color: rgb(192, 170, 213);
+}
+input{
+  width: 291px;
+  height: 29px;
+}
+.bookingform h2{
+  margin: 0px 0px 0px 174px;
+  color: brown;
+}
+.bookingform button{
+  float: right;
+    padding: -3px 7px 0px 1px;
+    margin: -51px -206px 5px 257px;
+}
+.showBooking{
+  float: right;
+  width: 110px;
+  height: 32px;
+  background-color: rgb(11, 199, 199);
+  font-size: 15px;
+
+}
+
+.usernameshow{
+  width: 1px;
+    color: white;
+    padding: 0px 0px 25px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.foodlist{
+  background-color: #d5a9d1;
+  color: white;
+  padding: 6px 75px 0px 489px;
+  width: 1420px;
+  height: 109px;
+}
+.foodlist:hover{
+  border-radius: 10px;
+  background-color: rgb(113, 204, 183);
+
+}
+
+.foodlistContainer{
+  float: left;
+  padding: 0px -2px 6px 0px;
+  border-radius: 10px;
+  border: 2px solid rgb(188, 148, 148);
+  width: 100%;
+  height: 716px;
+  background-color: rgb(255 115 115);
+}
+.foodlistimg{
+  border-radius: 18px;
+  margin: -64px 0px 0px 382px;
+  padding: 0px 4px 0px 0px;
+  width: 223px;
+  height: 107px;
+}
+
+
+
+.headerpayment {
+  width: 100vw;
+  min-height: 109vh;
+  background-color: #34495e;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paymentContainer {
+  display: flex;
+  border-radius: 25px;
+  background-color: white;
+  width: 852px;
+  height: 575px;
+}
+.paymentContainer input{
+  font-size: 13px;
+}
+
+.left {
+  width: 50%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+ .right {
+    float: right;
+    width: 59%;
+    padding: 27px;
+    box-sizing: border-box;
+}
+.statechoose{
+  width: 90px;
+}
+.paybtn{
+  padding: 3px 1px 0px 9px;
+  margin: 0px 1px 3px 1px;
+}
+
+address{
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+.responsive-map{
+  overflow: hidden;
+  height: 0;
+  padding-bottom: 30%;
+  position: relative;
+}
+
+.responsive-map iframe{
+  border: 0;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+
+
+
+/* Common styles for both mobile and desktop */
+
+.Appcontainer {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.navbarcolor {
+  background-color: rgb(33, 50, 46);
+  max-width: 136;
+}
+
+.icon-pg {
+  margin: -26px;
+  padding: -5px 0px 0px 0px;
+  height: 73px;
+  width: 153px;
+  float: left;
+}
+
+.icon-pg:hover {
+  border-bottom-right-radius: 80px;
+}
+
+.background-header {
+  width: 100%;
+  height: 332px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-section {
+  width: 100%;
+  border: 1px solid goldenrod;
+  background-color: blanchedalmond;
+}
+
+.about-button {
+  width: 83px;
+  height: 32px;
+  background-color: rgb(11, 199, 199);
+  border-radius: 12px;
+  font-size: 15px;
+}
+
+.about-button:hover {
+  background-color: rgb(0, 245, 245);
+  border-radius: 16px;
+}
+
+/* Mobile Styles */
+@media (max-width: 767px) {
+  .icon-pg {
+    margin: 0; /* Adjust as needed */
+    padding: 10px;
+    height: auto;
+    width: auto;
+    float: none;
+  }
+
+  .background-header {
+    height: 200px; /* Adjust as needed */
+  }
+
+  .service-h {
+    padding-left: 0;
+    background-color: rgb(146, 146, 196);
+    border-radius: 0;
+  }
+
+  .item-service {
+    width: 100%;
+    height: auto;
+    border: 2px solid rgb(152, 212, 152);
+    font-size: 20px; /* Adjust as needed */
+    border-radius: 0;
+    background-color: rgb(251, 117, 117);
+  }
+
+  .imageservice {
+    width: 100%;
+    height: auto;
+    float: none;
+  }
+
+  .form {
+    width: 100%;
+    margin: 10px 0; /* Adjust as needed */
+    padding: 10px;
+  }
+
+  .bookingform {
+    float: none;
+    width: 100%;
+    height: auto;
+  }
+
+  .bookingform button {
+    margin: 10px 0; /* Adjust as needed */
+  }
+
+  .foodlist {
+    padding: 6px 10px; /* Adjust as needed */
+    width: 100%;
+  }
+
+  .foodlistContainer {
+    padding: 0;
+    width: 100%;
+    height: auto;
+  }
+
+  .foodlistimg {
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Desktop Styles */
+@media (min-width: 768px) {
+  /* Add desktop-specific styles here */
+}
